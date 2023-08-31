@@ -1,0 +1,9 @@
+.main-container{
+    background: #f4f5f8;
+    height: 90vh;
+    width: 90vw;
+    display: flex;
+    /* flex-direction: column; */
+    
+
+}
