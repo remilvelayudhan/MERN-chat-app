@@ -1,4 +1,5 @@
 .work-area-container {
-    border: 5px green solid;
+   
+    background: aliceblue;
     flex:0.7;
 }

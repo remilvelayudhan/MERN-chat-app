@@ -1,0 +1,9 @@
+
+.sb-conversation{
+    background: white;
+    padding: 10px 5px;
+    margin: 10px;
+
+    border-radius: 1rem;
+    flex: 1;
+}

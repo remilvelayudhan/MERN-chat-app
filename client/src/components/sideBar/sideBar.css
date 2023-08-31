@@ -1,4 +1,6 @@
 .side-bar-container{
-    border: 5px red solid;
+    background: aliceblue;
     flex:0.3;
+    display: flex;
+    flex-direction: column;
 }

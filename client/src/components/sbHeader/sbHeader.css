@@ -1,0 +1,9 @@
+.sb-header{
+    background: white;
+    background: radius 20px;
+    padding: 10px 5px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 1rem;
+}
