@@ -1,0 +1,8 @@
+.chat-area-message{
+    background: white;
+    padding: 10px 5px;
+    margin: 10px;
+    display: flex;
+   
+    border-radius: 1rem;
+}

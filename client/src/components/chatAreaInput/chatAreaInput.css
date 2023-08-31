@@ -1,0 +1,19 @@
+
+.search-input{
+    outline: none;
+    outline-width: 0px;
+    border: 0px;
+    font-size: 1.25rem;
+    margin-left: 10px;
+    width: 100%;
+}
+
+.chat-area-input{
+    background: white;
+    padding: 10px 5px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 1rem;
+    
+}
